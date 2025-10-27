@@ -1,0 +1,5 @@
+2025-06-04 11:41:32 - INFO - [General] Data processing pipeline created successfully.
+2025-06-04 11:41:32 - INFO - [General] Pipeline saved at C:\mlops_aat\Artifacts\data_pipeline.pkl
+2025-06-04 11:41:32 - INFO - [General] Regression model trained and saved at C:\mlops_aat\Artifacts\best_model.pkl
+2025-06-04 11:41:32 - INFO - [General] Model loaded successfully.
+2025-06-04 11:41:32 - ERROR - [General] Error during evaluation: got an unexpected keyword argument 'squared'

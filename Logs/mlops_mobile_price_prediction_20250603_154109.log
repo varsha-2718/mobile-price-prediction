@@ -1,0 +1,3 @@
+2025-06-03 15:41:09 - INFO - [General] Data processing pipeline created successfully.
+2025-06-03 15:41:09 - INFO - [General] Pipeline saved at C:\mlops_aat\Artifacts\data_pipeline.pkl
+2025-06-03 15:41:09 - ERROR - [General] Error during model training: could not convert string to float: '10,499'

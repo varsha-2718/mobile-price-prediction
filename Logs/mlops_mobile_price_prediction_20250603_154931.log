@@ -1,0 +1,8 @@
+2025-06-03 15:49:31 - INFO - [General] Data processing pipeline created successfully.
+2025-06-03 15:49:31 - INFO - [General] Pipeline saved at C:\mlops_aat\Artifacts\data_pipeline.pkl
+2025-06-03 15:49:31 - INFO - [General] Regression model trained and saved at C:\mlops_aat\Artifacts\best_model.pkl
+2025-06-03 15:49:31 - INFO - [General] Model loaded successfully.
+2025-06-03 15:49:31 - INFO - [General] Regression model evaluation completed.
+2025-06-03 15:49:31 - INFO - [General] RMSE: 13560.62481744631
+2025-06-03 15:49:31 - INFO - [General] MAE: 7418.451891822537
+2025-06-03 15:49:31 - INFO - [General] R² Score: 0.7960263726165175
